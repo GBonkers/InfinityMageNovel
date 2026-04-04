@@ -220,17 +220,13 @@ You must keep changes small.
 
 ## Batch Execution Strategy (CRITICAL)
 
-### You MUST batch work
-
-Do NOT process the whole repo at once.
-
 ### Batch rules
 
-- Default: **10 chapters**
-- Max: **15 chapters**
-- If chapters are long: **5–10**
+- Default: **25 chapters**
+- Max: **40 chapters**
+- If chapters are long: **10–20**
 
-Never exceed 15 files per run.
+Never exceed 40 files per run.
 
 ---
 
